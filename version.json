@@ -4,7 +4,7 @@
   "changelog": "v1.5.1: Stripe subscription (Pro/BYOK), 180 min/month free quota enforcement, subscription status in Settings, Stripe webhook handler.",
   "android_version": "1.6.15",
   "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.15-android/VoiceTypingByJoe-v1.6.15.apk",
-  "android_changelog": "v1.6.15: Rázás-megszakítás (shake-to-cancel), Windows előfizetés kártya (Statistics tab), SettingsActivity lifecycleScope migráció.",
+  "android_changelog": "v1.6.15: Előfizetés kártya (Statistics tab) — tier badge, havi kvóta progress bar, ↻ Refresh gomb. Rázás-megszakítás (shake-to-cancel). Lebegő gomb hibajavítások.",
   "android": {
     "version": "1.6.15",
     "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.15-android/VoiceTypingByJoe-v1.6.15.apk"
