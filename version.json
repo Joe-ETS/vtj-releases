@@ -2,11 +2,11 @@
   "version": "1.5.0",
   "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.0/VoiceTypingByJoe-v1.5.0.zip",
   "changelog": "v1.5.0: Cloud sync (Supabase), i18n HU/EN, session hard cap (6 min), crash reporting (opt-in), auto-update, Linux AppImage.",
-  "android_version": "1.6.12",
-  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.12-android/VoiceTypingByJoe-v1.6.12.apk",
-  "android_changelog": "v1.6.12: Windows-style pill bubble redesign – recording shows [X cancel] [wave] [timer] [stop] pill; idle/processing as colored circles. Animation freeze bug fixed.",
+  "android_version": "1.6.13",
+  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.13-android/VoiceTypingByJoe-v1.6.13.apk",
+  "android_changelog": "Lebegő gomb javítás: mozgatás most X és Y irányban is működik, érintési terület pontosan a gomb körzetére korlátozva.",
   "android": {
-    "version": "1.6.12",
-    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.12-android/VoiceTypingByJoe-v1.6.12.apk"
+    "version": "1.6.13",
+    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.13-android/VoiceTypingByJoe-v1.6.13.apk"
   }
 }
