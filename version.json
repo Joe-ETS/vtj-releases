@@ -1,12 +1,13 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.1/VoiceTypingByJoe-v1.5.1.zip",
-  "changelog": "v1.5.1: Stripe subscription (Pro/BYOK), 180 min/month free quota enforcement, subscription status in Settings, Stripe webhook handler.",
-  "android_version": "1.6.16",
-  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.16-android/VoiceTypingByJoe-v1.6.16.apk",
-  "android_changelog": "v1.6.16: Előfizetés kártya (Statistics tab) — tier badge, havi kvóta progress bar, ↻ Refresh gomb. Rázás-megszakítás (shake-to-cancel). Lebegő gomb hibajavítások.",
+  "version": "1.5.5",
+  "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
+  "changelog": "v1.5.5: VibeVox rebrand â€” Velopack Windows auto-update integrÃ¡ciÃ³, EAA accessibility alapok, Deepgram streaming elÅ‘kÃ©szÃ­tÃ©s.",
+  "android_version": "1.6.17",
+  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.17-android/VibeVox-v1.6.17.apk",
+  "android_changelog": "v1.6.17: FCM push Ã©rtesÃ­tÃ©sek, Wireless Mic proxy endpointok, proxy autentikÃ¡ciÃ³ javÃ­tÃ¡s.",
   "android": {
-    "version": "1.6.16",
-    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.16-android/VoiceTypingByJoe-v1.6.16.apk"
+    "version": "1.6.17",
+    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.17-android/VibeVox-v1.6.17.apk"
   }
 }
+
