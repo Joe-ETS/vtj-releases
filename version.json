@@ -2,11 +2,11 @@
   "version": "1.5.5",
   "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
   "changelog": "v1.5.5: VibeVox rebrand — Velopack Windows auto-update integráció, EAA accessibility alapok, Deepgram streaming előkészítés.",
-  "android_version": "1.6.24",
-  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.24-android/VibeVox-v1.6.24.apk",
-  "android_changelog": "v1.6.24: Globe icon for keyboard switch, login guard, better error messages.",
+  "android_version": "1.6.25",
+  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.25-android/VibeVox-v1.6.25.apk",
+  "android_changelog": "v1.6.25: Tap-to-toggle mic button, proper icon switch, clear status messages.",
   "android": {
-    "version": "1.6.24",
-    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.24-android/VibeVox-v1.6.24.apk"
+    "version": "1.6.25",
+    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.25-android/VibeVox-v1.6.25.apk"
   }
 }
