@@ -1,12 +1,1 @@
-{
-  "version": "1.5.5",
-  "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
-  "changelog": "v1.5.5: VibeVox rebrand — Velopack Windows auto-update integráció, EAA accessibility alapok, Deepgram streaming előkészítés.",
-  "android_version": "1.6.28",
-  "android_url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.28-android/VibeVox-v1.6.28.apk",
-  "android_changelog": "v1.6.28: CEE Symbol Layer (§, regional quotes, zl/Kc/Ft currencies), low-latency touch (ACTION_DOWN), D-Pad editing controls, persistent number row.",
-  "android": {
-    "version": "1.6.28",
-    "url": "https://github.com/Joe-ETS/vtj-releases/releases/download/v1.6.28-android/VibeVox-v1.6.28.apk"
-  }
-}
+{"version":"1.5.5","url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip","changelog":"v1.5.5: VibeVox rebrand","android_version":"1.6.29","android_url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.29-android/VibeVox-v1.6.29.apk","android_changelog":"v1.6.29: CEE Symbol Layer, low-latency touch, D-Pad editing controls.","android":{"version":"1.6.29","url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.29-android/VibeVox-v1.6.29.apk"}}
