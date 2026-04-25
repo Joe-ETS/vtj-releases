@@ -1,1 +1,12 @@
-{"version":"1.5.5","url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip","changelog":"v1.5.5: VibeVox rebrand","android_version":"1.6.32","android_url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.32-android/VibeVox-v1.6.32.apk","android_changelog":"v1.6.32: Keyboard input fix","android":{"version":"1.6.32","url":"https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.32-android/VibeVox-v1.6.32.apk"}}
+{
+  "version": "1.5.5",
+  "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
+  "changelog": "v1.5.5: VibeVox rebrand — Velopack Windows auto-update integráció, EAA accessibility alapok, Deepgram streaming előkészítés.",
+  "android_version": "1.6.34",
+  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.34-android/VibeVox-v1.6.34.apk",
+  "android_changelog": "v1.6.34: E2E Cloud Sync engedélyezve, SettingsTab layout fix, repo URL javítás frissítésekhez.",
+  "android": {
+    "version": "1.6.34",
+    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.34-android/VibeVox-v1.6.34.apk"
+  }
+}
