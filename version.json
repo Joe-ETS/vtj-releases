@@ -2,11 +2,11 @@
   "version": "1.5.5",
   "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.5.5/VibeVox-v1.5.5.zip",
   "changelog": "v1.5.5: VibeVox rebrand â€” Velopack Windows auto-update integrÃ¡ciÃ³, EAA accessibility alapok, Deepgram streaming elÅ‘kÃ©szÃ­tÃ©s.",
-  "android_version": "1.6.31",
-  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.31-android/VibeVox-v1.6.31.apk",
-  "android_changelog": "v1.6.31: BillentyÅ±zet most tÃ©nylegesen Ã­r (InputConnection lifecycle fix), felesleges mic ikon eltÃ¡volÃ­tva, voice panel chevron eltÃ¡volÃ­tva.",
+  "android_version": "1.6.29",
+  "android_url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.29-android/VibeVox-v1.6.29.apk",
+  "android_changelog": "v1.6.29: CEE Symbol Layer (Â§, regional quotes, zÅ‚/KÄ/Ft), low-latency touch (ACTION_DOWN), D-Pad editing controls.",
   "android": {
-    "version": "1.6.31",
-    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.31-android/VibeVox-v1.6.31.apk"
+    "version": "1.6.29",
+    "url": "https://github.com/Joe-ETS/VibeVox-releases/releases/download/v1.6.29-android/VibeVox-v1.6.29.apk"
   }
 }
